@@ -2,7 +2,7 @@
 
 
 # Decentralized Resource Sharing Network
-# Contract address: 0xe127222A7eA15baCFC7f8165D0669e950013899A
+**Contract address:** 0xe127222A7eA15baCFC7f8165D0669e950013899A
 # Project Description
 The "Decentralized Resource Sharing Network" project aims to establish a decentralized platform for sharing educational resources and learning materials. This network will leverage smart contracts to facilitate the sharing, access, and management of educational content across institutions and individual users. By decentralizing the resource-sharing process, the platform will promote equitable access to high-quality educational materials and foster a collaborative learning environment.
 
